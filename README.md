@@ -89,7 +89,7 @@ strongly advise you not to run your application in this mode in production.
 
 Create a php-5.4 application (you can call your application whatever you want)
 
-    $ rhc app create wordpress php-5.4 mysql-5.5 --from-code=https://github.com/luciddreamz/wordpress -s
+    $ rhc app create wordpress php-5.4 mysql-5.5 --from-code=https://github.com/luciddreamz/wordpress-scalable.git -s
 
 That's it, you can now checkout your application at:
 
